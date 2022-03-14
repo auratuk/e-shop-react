@@ -1,0 +1,84 @@
+{
+  "carousel": [
+    {
+      "id": "e63b3885-28c8-4849-bf40-64d6bf38d76d",
+      "redirectUrl": "https://www.knygos.lt/lt/knygos/zanras/knygos-iki-4-99-eur--/",
+      "imgSrc": "https://thumb.knygos-static.lt/ae2UBEyUf9PmdaJYWHcdn8fe3lA=/fit-in/1010x300/images/news_stock/2312/bevyru-1010x300.png",
+      "desc": "Some amazing text 1"
+    },
+    {
+      "id": "d230055d-c0da-4e6d-acc3-50ac92a94c7a",
+      "redirectUrl": "https://www.knygos.lt/lt/knygos/zanras/leidyklos-obuolys-knygoms-nuo-30---iki-60--/",
+      "imgSrc": "https://thumb.knygos-static.lt/e0KhEVIH1h_SQQcHG0ciLIdeKR4=/fit-in/1010x300/images/news_stock/2316/sanatorija-1010x300.jpg",
+      "desc": "Some amazing text 2"
+    },
+    {
+      "id": "0ecc2496-d947-465d-b5ff-bc3849dd1e0e",
+      "redirectUrl": "https://www.knygos.lt/lt/knygos/zanras/totalinis-ispardavimas--galybe-knygu-iki--60---/",
+      "imgSrc": "https://thumb.knygos-static.lt/EqkikQcDoxNvfVtLfaoHP588eC8=/fit-in/1010x300/images/news_stock/2313/rijneveld-vakaro-nejauka-knygoslt-1010x300.jpg",
+      "desc": "Some amazing text 3"
+    },
+    {
+      "id": "f140f3b8-e8af-4e9c-988a-16e3b73549a8",
+      "redirectUrl": "https://www.knygos.lt/lt/knygos/stebintis-slapcia/",
+      "imgSrc": "https://thumb.knygos-static.lt/mrg3xUHfOuIvBJ0Fi2-Rhg69pew=/fit-in/1010x300/images/news_stock/2314/mieloji-rouz-1010x300.png",
+      "desc": "Some amazing text 4"
+    }
+  ],
+  "books": [
+    {
+      "id": "0b4e38ff-0fb4-40fa-9cc8-347b5d829c90",
+      "imgSrc": "https://thumb.knygos-static.lt/Il9MmEwdDbqiN-BxoE6qBOjHmQQ=/fit-in/0x230/images/books/2601474/1641973726_NaamJoo_KimDzijonge_72max.jpg",
+      "name": "Kim Džijongė, gimusi 1982",
+      "author": "Cho Nam-joooo"
+    },
+    {
+      "id": "062c42ce-21f4-4040-94c7-b2d8372728be",
+      "imgSrc": "https://thumb.knygos-static.lt/QESMoQm00Ab1g0cZ0VVrgs6hjls=/fit-in/0x230/images/books/2318629/1616758615_Kopa_large.png",
+      "name": "Kopa",
+      "author": "Frank Herbert"
+    },
+    {
+      "id": "65e3ca6f-9384-48f3-9f0e-27f1e77dba11",
+      "imgSrc": "https://thumb.knygos-static.lt/590WLODAG38roe0GKq-wkAOrJj4=/fit-in/0x230/images/books/2643900/1635229515_Ishiguro_Klara_ir_saule_72max.jpg",
+      "name": "Kazuo Ishiguro",
+      "author": "Klara ir Saulė"
+    },
+    {
+      "id": "cd69aefe-9d0f-4caa-ba1b-2bedc5060b01",
+      "imgSrc": "https://thumb.knygos-static.lt/N0Mvh_DpdnGh_TUXXF68_PyI47w=/fit-in/0x230/images/books/2658828/1640848095_9786094900679_atsiskyrelio_buveine_1640769893.jpg",
+      "name": "Atsiskyrėlio buveinė",
+      "author": "L.J. Ross"
+    },
+    {
+      "id": "1470f9bb-a90f-4bf0-9173-f0f454041506",
+      "imgSrc": "https://thumb.knygos-static.lt/kLsQbn33ujHo8C1UycotRsDaKcc=/fit-in/0x230/images/books/2506498/1622095245_000000000001112395-6099214198bea-asset-knyguklubas-musu-kunai-ju-karo-laukas.jpg",
+      "name": "Mūsų kūnai - jų karo laukas",
+      "author": "Christina Lamb"
+    },
+    {
+      "id": "2dd8bdf5-88c8-4dfe-af95-124d0a90ad8c",
+      "imgSrc": "https://thumb.knygos-static.lt/TU3MNYSGmIgnaTcYxVHSfO-nJec=/fit-in/0x230/images/books/2598117/1619435774_Maze.jpg",
+      "name": "Mažė",
+      "author": "Edward Carey"
+    },
+    {
+      "id": "08f45a30-34c1-4c74-b7ef-a69e1846c046",
+      "imgSrc": "https://thumb.knygos-static.lt/VVmFSiAv97eACm-9ZlEmPK0Q3I8=/fit-in/0x230/images/books/2335321/1604387228_000000000001112475-5f9baae4d9b4f-asset-knyguklubas-pazadetoji-zeme.jpg",
+      "name": "Pažadėtoji žemė",
+      "author": "Barack Obama"
+    },
+    {
+      "id": "6373ec60-e741-4a6f-bc8b-d76166fb4978",
+      "imgSrc": "https://thumb.knygos-static.lt/lqzdFuqbyVMmvDITPKeDj2W8tyo=/fit-in/0x230/images/books/1498146/1587550928_Kunas-mena-viska-virselis-priekis.jpg",
+      "name": "Kūnas mena viską",
+      "author": "Bessel Van Der Kolk, M.D."
+    },
+    {
+      "id": "d391e33a-4594-4714-bcc8-8cffd8dfe868",
+      "imgSrc": "https://thumb.knygos-static.lt/oYKrBqck9CQEohr1bgc1DaDND9Q=/fit-in/0x230/images/books/2660971/1642600618_sugrizimas_2d1s.jpg",
+      "name": "Sugrįžimassss",
+      "author": "Nicholas Spark"
+    }
+  ]
+}
