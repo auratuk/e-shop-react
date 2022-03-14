@@ -25,6 +25,7 @@
 
 .carousel .carousel-item {
   display: block;
+  animation: fading 0.5s;
 }
 
 .carousel .carousel-item--hidden {
@@ -63,4 +64,13 @@
 .carousel:hover .carousel-buttons {
   display: flex;
   cursor: pointer;
+}
+
+@keyframes fading {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
