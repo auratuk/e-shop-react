@@ -1,4 +1,4 @@
-.carousel-wrapper {
+.carouselWrapper {
   display: flex;
   justify-content: center;
 }
@@ -23,20 +23,20 @@
   text-decoration: none;
 }
 
-.carousel .carousel-item {
+.carousel .carouselItem {
   display: block;
   animation: fading 0.5s;
 }
 
-.carousel .carousel-item--hidden {
+.carousel .carouselItemHidden {
   display: none;
 }
 
-.carousel .carousel-item img {
+.carousel .carouselItem img {
   max-width: 100%;
 }
 
-.carousel .carousel-buttons button {
+.carousel .carouselButtons button {
   position: absolute;
   top: 50%;
   z-index: 10;
@@ -47,21 +47,21 @@
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
-.carousel-btn.carousel-btn-left {
+.carouselBtn.carouselBtnLeft {
   left: 0;
   transform: translate(0%, -75%);
 }
 
-.carousel-btn.carousel-btn-right {
+.carouselBtn.carouselBtnRight {
   right: 0;
   transform: translate(0%, -75%);
 }
 
-.carousel-buttons {
+.carouselButtons {
   display: none;
 }
 
-.carousel:hover .carousel-buttons {
+.carousel:hover .carouselButtons {
   display: flex;
   cursor: pointer;
 }

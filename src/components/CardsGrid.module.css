@@ -22,22 +22,29 @@
   }
 }
 
-.cards-wrapper {
+.cardsWrapper {
   display: flex;
   justify-content: center;
   margin-bottom: 1rem;
   margin-top: 1rem;
 }
 
-.new-card {
+.newCard {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
   cursor: pointer;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  height: 350px;
+  width: 250px;
 }
 
-.new-card > h1 {
+.newCard > h1 {
   font-size: 150px;
   color: white;
   align-self: flex-end;
